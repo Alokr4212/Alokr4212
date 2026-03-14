@@ -5,7 +5,7 @@
 # 👋 Hello! I'm Alok Ranjan
 
 🎓 B.E Graduate from Chandigarh University  
-💡 Aspiring **Data Analyst** | **Software Engineer**  
+💡 Aspiring **Data Engineer** | **Software Engineer**  
 🔍 Focused on **Data Analytics, Web Development, ETL & Reporting**  
 🔍 Passionate about turning data into insights and ideas into code  
 🚀 Always exploring better ways to solve real-world problems with technology  
