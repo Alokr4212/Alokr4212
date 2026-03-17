@@ -34,7 +34,7 @@ Status      : Actively building & learning 🚀
 
 ---
 
-## `$ cat data_pipeline.txt`
+## `$  Data_pipeline.txt`
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -58,7 +58,7 @@ Status      : Actively building & learning 🚀
 
 ---
 
-## `$ ls -la skills/`
+## `$  skills`
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-050d1a?style=for-the-badge&logo=python&logoColor=4fc3f7)
@@ -131,7 +131,7 @@ Status      : Actively building & learning 🚀
 
 ---
 
-## `$ vim currently_building.md`
+## `$  currently_building.md`
 
 ```python
 current_sprint = {
@@ -146,7 +146,7 @@ current_sprint = {
 
 ---
 
-## `$ ssh connect@alok-ranjan`
+## `$ Connect`
 
 <div align="center">
 
